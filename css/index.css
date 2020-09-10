@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+}
+header {
+    background: #ea5455;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline-block;
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+}
+nav a:hover {
+color: #a2d5f2;
+}
+/*nav ended*/
+.haarika {
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    color: #ff4b5c;
+}
+.margin {
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+hr {
+    width: 30%;
+}
+#p {
+    font-family: sans-serif;
+    border: red solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    line-height: 35px;
+    font-size: 25px;
+}
+.fa {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+.para {
+    text-align: center;
+    font-family: sans-serif;
+}
+.game {
+    float: left;
+    padding-left: 27.5%;
+    border: red solid;
+    padding: 10px;
+    margin-left: 20%;
+}
+.seek {
+    float: right;
+    padding-left: 20px;
+    text-align: left;
+}
+.ghost {
+    float: left;
+    padding-left: 27.5%;
+    border: red solid;
+    padding: 10px;
+    margin-left: 20%;
+    padding-bottom: 20px;
+    padding-right: 7.2%;
+}
+.des {
+    float: right;
+    padding-left: 20px;
+    text-align: left;
+}
+.roller {
+    float: left;
+    padding-left: 27.5%;
+    border: red solid;
+    padding: 10px;
+    margin-left: 19.3%;
+    padding-bottom: 12px;
+    padding-right: 7.2%;
+}
+.content {
+    float: right;
+    padding-left: 20px;
+    text-align: left;
+}

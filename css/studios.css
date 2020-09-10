@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+}
+header {
+    background: #158467;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline-block;
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+}
+nav a:hover {
+color: #a2d5f2;
+}
+/*nav css ended*/
+
+.head {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: #12cad6;
+}
+#p {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #12cad6;
+    line-height: 0;
+}
+.haa {
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: #e7305b;
+}
+.des {
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+}
+.gift {
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: #1dd3bd;
+}
+.play {
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+}
+.carder {
+    list-style: none;
+}
+.carder a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+    border: #07689f solid;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    padding-right: 14px;
+    padding-left: 14px;
+    border-radius: 50px;
+    color: #fff;
+    background: #07689f;
+}
+.carder a:hover {
+    border: #07689f solid;
+    color: #07689f;
+    background: #fff;
+}
